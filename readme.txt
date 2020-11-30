@@ -60,5 +60,13 @@ BayesianRidge 			     0.41072364086973934  	    34.359461867910255
 PassiveAggressiveRegressor 	    -0.05391804946543388  	    45.9505025392363
 TheilSenRegressor 		     0.4032850249945138  	    34.575646768194694
 
+ Modules required to execute the code-
+ 1.Pandas
+ 2.numpy
+ 3.matplotlib
+ 4.seaborn
+ 5.sklearn
  
+ Dataset must be present in the same folder as the code.
+ Run all the cells to reproduce the results.
  #To rerun kernel please comment RandomisedSearchCV for time constrain
